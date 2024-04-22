@@ -7,6 +7,8 @@
 ## Discussion and community
 - [Study group](https://lu.ma/u/Google-Career-Certificates-Study-Group)
 - [Fellow student community](http://www.coursera.support/s/group-invite?id=MEY5VkgwMDAwMDAwMWZGMEFR)
+- [Peer graded activities](https://www.coursera.org/learn/project-initiation-google/resources/FOW2Z)
+
 
 ## Further study
 - [Project Management Institute](https://www.pmi.org/)
